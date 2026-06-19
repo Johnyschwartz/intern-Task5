@@ -8,7 +8,7 @@ name:"Laptop",
 
 price:55000,
 
-image:"assets/Laptop.jpg"
+image:"Laptop.jpg"
 
 
 },
@@ -22,7 +22,7 @@ name:"Smart Phone",
 
 price:25000,
 
-image:"assets/Smartphone.jpg"
+image:"Smartphone.jpg"
 
 
 },
@@ -36,7 +36,7 @@ name:"Headphones",
 
 price:3000,
 
-image:"assets/headphone.jpg"
+image:"headphone.jpg"
 
 
 }
